@@ -1,6 +1,8 @@
 # that_safeAttack
 that_safeAttack is a FiveM script designed to prevent accidental punches and attacks between players. The script ensures that a player can only punch or attack if they are purposefully aiming at someone by holding the right-click button. This helps maintain a more controlled and intentional gameplay experience.
 
+Forum [that_safeAttack](https://forum.cfx.re/t/that-safeattack/5248415)
+
 Credits to [mrm-SafePunch](https://github.com/MrM-Scripts/mrm-SafePunch) for the concept
 
 ### Features:
