@@ -19,11 +19,11 @@ that_safeAttack is a FiveM script designed to prevent accidental punches and att
 
 ### Usage
 `TriggerEvent('that_safeAttack:attackStateChange', disable)` – Called every time the attack state changes.
-`exports['that_safeAttack:isDisabled']` – Returns whether the attack is disabled or not.
+`exports['that_safeAttack']:isDisabled()` – Returns whether the attack is disabled or not.
 
 You may change the script name; events and exports will still work, but you must update the API calls accordingly.
 
-For example if script name is changed to 'safeAttack' so when calling the api you should use `TriggerEvent('safeAttack:attackStateChange', disable)` and `exports['safeAttack:isDisabled']`.
+For example if script name is changed to 'safeAttack' so when calling the api you should use `TriggerEvent('safeAttack:attackStateChange', disable)` and `exports['safeAttack']:isDisabled()`.
 
 ### Example API Call
 ```lua
