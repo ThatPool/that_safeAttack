@@ -18,7 +18,9 @@ Credits to [mrm-SafePunch](https://github.com/MrM-Scripts/mrm-SafePunch) for the
 
 ### Configuration Options:
 `Config.UnarmedOnly = true` – Ensures player is unarmed to attack. Set to false to require aiming with a weapon.
+
 `Config.ArmedWeaponList` – List of weapons to be whitelisted or blacklisted.
+
 `Config.ArmedWeaponListBlacklisted` = false – Determines if the Config.ArmedWeaponList is a blacklist (true) or whitelist (false).
 
 ### Usage
